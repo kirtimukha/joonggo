@@ -2,7 +2,7 @@ import { Inter } from 'next/font/google';
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 
-import app from './_app';
+import app from './_app';//푸시 테스트 
 
 const inter = Inter({ subsets: ['latin'] });
 
